@@ -8,8 +8,7 @@ In particular, they wondered: does the rest of America realize that
 The team needed to collect data addressing this question. 
 To do this, they surveyed Star Wars fans using the online 
 tool SurveyMonkey. They received 835 total responses, 
-which you download from 
-[their GitHub repository]
+which you download from their GitHub repository
 (https://github.com/fivethirtyeight/data/blob/master/star-wars-survey/README.md).
 
 The purpose of this project is to clear the data presented in 
